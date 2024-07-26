@@ -17,13 +17,13 @@ To visualize the weather of over 500 cities of varying distances from the equato
 
 **Steps Taken**
 
-- 1. **Generated Random Coordinates:**
+ 1. **Generated Random Coordinates:**
  Used the provided code to generate random geographic coordinates and found the nearest cities.
 
-- 2. **Retrieved Weather Data:**
+ 2. **Retrieved Weather Data:**
 Used the OpenWeatherMap API to get weather data for the cities.
 
-- 3. **Created Scatter Plots like following:**
+ 3. **Created Scatter Plots like following:**
 
 - Latitude vs. Temperature
 - Latitude vs. Humidity
